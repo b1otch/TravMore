@@ -1,4 +1,4 @@
-package com.example.travmore.ui.theme
+package com.example.travmore.Pages.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -34,7 +34,6 @@ fun TravMoreTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composab
     } else {
         LightColorPalette
     }
-
 
     MaterialTheme(
         colors = colors,

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TravMore</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_choose_site">ChooseSite</string>
 </resources>
